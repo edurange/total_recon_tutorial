@@ -1,2 +1,3 @@
 # total_recon_tutorial
-Codelabs for total recon
+
+https://edurange.github.io/total_recon_tutorial/
